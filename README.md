@@ -1,6 +1,5 @@
 # spring-security
-logout
-=======
+
 http://localhost:9090/logout
 
 
